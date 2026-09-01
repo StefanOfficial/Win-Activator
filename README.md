@@ -28,7 +28,7 @@ slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 
 ### Productkey list
 
-[Productkeys:](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
+[Productkeys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
 
 That's all.
 
