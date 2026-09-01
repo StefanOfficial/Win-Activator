@@ -1,5 +1,6 @@
 @ECHO OFF
-chcp 65001
+title %~n0
+chcp 65001 >nul
 mode con lines=20 cols=80
 color  03
 
