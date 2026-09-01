@@ -172,4 +172,4 @@ Created by **StefanOfficial**
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/StefanOfficial/Uptime-Kuma-WinTools?tab=MIT-1-ov-file) License © [StefanOfficial](https://github.com/StefanOfficial)
+This project is licensed under the [MIT](https://github.com/StefanOfficial/Win-Activator?tab=MIT-1-ov-file) License © [StefanOfficial](https://github.com/StefanOfficial)
