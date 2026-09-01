@@ -1,26 +1,26 @@
 # Win-Activator
-This mehtod works with XP or Higher!
+This method works with Windows XP and later versions.
 
 ## Script Role
 
-- **Win 11 Pro Activator** = It change productkey, kms host and activate the OS. 
+- **Win 11 Pro Activator** = Changes the product key and KMS host, then attempts to activate the operating system. 
 
 ## Features
 
-- Supports Windows XP or Higher
-- UTF-8 encoding enabled
-- Hungarian language by default
-- Accented characters display correctly regardless of system locale
+-Supports Windows XP and later versions
+-UTF-8 encoding enabled
+-Hungarian language by default
+-Accented characters are displayed correctly regardless of the system locale
 
 ---
 
 # Win 11 Pro Activator
 
-**Win 11 Pro Activator** It change productkey, kms host and activate the OS. 
+**Win 11 Pro Activator** changes the product key and KMS host, then attempts to activate the operating system.
 
 ### Configuration
 
-Modify the following produckt key to match your Windows version:
+Modify the following product key to match your Windows version:
 
 ```bat
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
@@ -28,7 +28,7 @@ slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 
 ### Productkey list
 
-[Productkeys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
+[See the official Microsoft list of KMS client activation keys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
 
 That's all.
 
@@ -37,7 +37,7 @@ That's all.
 
 # KMS Host list
 
-**Change it if isn't working. 
+**Change the KMS host if the current one is not working.
 
 ### Online Host List
 
