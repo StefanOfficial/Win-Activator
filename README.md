@@ -1,5 +1,5 @@
 # Win-Activator
-This method works with Windows XP and later versions.
+This method works with Windows 7 and later versions.
 
 ## Script Role
 
