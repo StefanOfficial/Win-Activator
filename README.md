@@ -8,9 +8,13 @@ This method works with Windows XP and later versions.
 ## Features
 
 -Supports Windows XP and later versions
+
 -UTF-8 encoding enabled
+
 -Hungarian language by default
+
 -Accented characters are displayed correctly regardless of the system locale
+
 
 ---
 
