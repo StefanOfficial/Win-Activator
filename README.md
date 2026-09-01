@@ -33,17 +33,28 @@ That's all.
 
 # KMS Host list
 
-**Win 11 Pro Activator** It change productkey, kms host and activate the OS. 
+**Change it if isn't working. 
 
-### Configuration
-
-Modify the following produckt key to match your Windows version:
+### Online Host List
 
 ```bat
-slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+hq1.chinancce.com
+54.223.212.31
+kms.cnlic.com
+kms.chinancce.com
+kms.ddns.net
+franklv.ddns.net
+k.zpale.com
+m.zpale.com
+mvg.zpale.com
+kms.shuax.com
+kensol263.imwork.net:1688
+xykz.f3322.org
+kms789.com
+dimanyakms.sytes.net:1688
+kms.03k.org:1688
+kms.03k.org
 ```
-
-That's all.
 
 ---
 
