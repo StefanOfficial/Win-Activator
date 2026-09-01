@@ -31,6 +31,22 @@ That's all.
 
 ---
 
+# KMS Host list
+
+**Win 11 Pro Activator** It change productkey, kms host and activate the OS. 
+
+### Configuration
+
+Modify the following produckt key to match your Windows version:
+
+```bat
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+```
+
+That's all.
+
+---
+
 ## Author
 
 Created by **StefanOfficial**
