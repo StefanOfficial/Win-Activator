@@ -11,88 +11,23 @@ This mehtod works with XP or Higher!
 - UTF-8 encoding enabled
 - Hungarian language by default
 - Accented characters display correctly regardless of system locale
-- PM2 is not required (optional)
 
 ---
 
-# DAEDALUS
+# Win 11 Pro Activator
 
-**Daedalus** is the installation script for Uptime Kuma.
+**Win 11 Pro Activator** It change productkey, kms host and activate the OS. 
 
 ### Configuration
 
-Modify the following path to match your environment:
+Modify the following produckt key to match your Windows version:
 
 ```bat
-cd /d "C:\Monitoring\UPTIME\uptime-kuma"
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 ```
 
 That's all.
 
----
-
-# ARGUS
-
-**Argus** is the launcher script for Uptime Kuma.
-
-### Configuration
-
-Modify the following path to match your environment:
-
-```bat
-cd /d "C:\Monitoring\UPTIME\uptime-kuma"
-```
-
-That's all.
-
----
-
-# JANUS
-
-**Janus** is the update script for Uptime Kuma.
-
-The script:
-
-- Checks for a newer release
-- Creates an automatic database backup
-- Updates the application
-- Installs required dependencies
-- Downloads prebuilt assets
-- Starts Uptime Kuma after the update
-
-### Configuration
-
-Modify the following paths to match your environment:
-
-```powershell
-$InstallPath = "C:\Monitoring\UPTIME\uptime-kuma"
-
-$DatabaseFile = "C:\Monitoring\UPTIME\uptime-kuma\db\kuma.db"
-
-$BackupFolder = "C:\Monitoring\UPTIME\backup"
-
-$StartScript = "C:\Monitoring\UPTIME\info\UPTIME Start Script.bat"
-```
-
-That's all.
-
----
-
-# Naming
-
-These scripts are named after figures from mythology:
-
-### DAEDALUS
-The legendary master craftsman and builder.
-Represents the installation and creation of the environment.
-
-### JANUS
-The Roman god of transitions, passages, and new beginnings.
-Represents upgrading from one version to another.
-
-### ARGUS
-The hundred-eyed guardian from Greek mythology.
-Represents continuous monitoring and vigilance.
 
 ---
 
